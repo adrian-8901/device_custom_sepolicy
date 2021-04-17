@@ -1,4 +1,4 @@
-type flipendo, domain, coredomain;
+type domain, coredomain;
 app_domain(flipendo)
 
 # HwBinder IPC from client to flipendo
